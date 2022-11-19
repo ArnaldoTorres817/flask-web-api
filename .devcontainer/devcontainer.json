@@ -1,5 +1,5 @@
 {
-  "name": "taller",
+  "name": "Flask Web Api",
   "build": {
     "dockerfile": "Dockerfile"
   },
